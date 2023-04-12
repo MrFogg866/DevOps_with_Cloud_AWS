@@ -53,18 +53,4 @@
 - this is usefull knowledge for a development team
 
 
-## how does it benefits the business What is Cloud computing
-
-- 
-
-
-
-
-
-
-
-
-
-
-
-how does it benefits the business
+## how does it benefits the business 
